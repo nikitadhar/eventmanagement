@@ -13,7 +13,7 @@ export default function Work() {
     <div className='work-main'>
        
         <p className='stay'>STAY SOCIAL</p>
-       <a href="#" className='follow-anchor'>Follow Us On Instagram</a>
+       <a href="/" className='follow-anchor'>Follow Us On Instagram</a>
        <div className='img-container'>
         <img src={workimg1} alt="workimg1"  />
         <img src={workimg2} alt="workimg2" />
