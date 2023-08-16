@@ -1,0 +1,5 @@
+ .service_backgraund{
+    background-image: url("../../images/servicebg.webp");
+    background-size: cover;
+    height:651px;
+ }

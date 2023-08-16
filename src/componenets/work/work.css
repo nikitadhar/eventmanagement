@@ -1,0 +1,38 @@
+.work-main{
+    text-align: center;
+}
+.stay{
+    font-size:60px;
+    font-weight: bold;
+}
+.follow-anchor{
+    font-size: 100px;
+    text-decoration: none;
+    color: rgb(239, 137, 12);
+   position: relative;
+   top: -30px;
+}
+.img-container{
+    display: flex;
+    gap:8px;
+    justify-content: center;
+}
+.img-container img{
+    width:200px;
+}
+.logo-container{
+    display: flex;
+    justify-content: center;
+   
+}
+.copyright_para{
+    margin-top:140px;
+    font-size: 20px;
+}
+.work_logo{
+    width: 400px;
+}
+.ownered{
+    margin-top:140px;
+    font-size: 20px;  
+}

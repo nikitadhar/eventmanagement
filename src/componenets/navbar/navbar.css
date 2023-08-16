@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+#sidelogo img{
+    width: 350px;
+    margin-top: -50px;
+    /* border-radius: 100px;
+    box-shadow: 5px 5px 5px 5px; */
+     
+}
+#uppernavbar{
+    background-color: #FDFEFF;
+    border-radius: 10px;
+    display: flex;
+    height:150px;
+}
+.parent_sidelist{
+position: relative;
+left:700px;
+top: 30px;
+}
+.parent_sidelist p{
+    font-size: 30px;
+    width: 200px;
+}
+.parent_sidelist:hover .sidelist ul{
+display: block;
+}
+.sidelist ul{
+    display: none;
+    list-style-type: none;
+    background-color: rgb(155, 149, 142);
+    height: 500px;
+    margin-top: -22px;
+    width:290px;
+    position: relative;
+    z-index: 1;
+}
+ 
+.sidelist ul a{
+text-decoration: none;
+color: #000000;
+font-weight:700;
+}
+li{
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    list-style-type: none;
+   
+}
+li:hover{
+    background-color: azure;
+    border-radius: 6px;
+   
+}
